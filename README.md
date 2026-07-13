@@ -26,7 +26,7 @@ Passionate about software development and building impactful applications.
 
 ## 🛠 Languages and Tools
 
-## Languages and Tools:
+
 
 
 <p>
