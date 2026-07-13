@@ -3,16 +3,10 @@
 <h3 align="center">Software Developer | Java Developer</h3>
 
 <p align="center">
-Passionate about building scalable and user-friendly web applications using Java and modern backend technologies.
+Passionate about software development and building impactful applications.
 </p>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Abhishek2004-bot&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
-- 🎓 BCA Graduate (2025)
-
-- 💼 Completed a 6-Month Java Full Stack Development Internship at Tap Academy, Bengaluru
+- 🎓 BCA Graduate (2025) with hands-on experience in Java Full Stack Development through a 6-month internship at Tap Academy, Bengaluru.
 
 - 🚀 Built and deployed **FoodSeva**, a full-stack online food ordering application using Spring Boot, Hibernate, MySQL, JSP, and REST APIs. [![View Project](https://img.shields.io/badge/View-Project-blue?style=flat-square)](YOUR_PROJECT_LINK)
 
@@ -28,18 +22,7 @@ Passionate about building scalable and user-friendly web applications using Java
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Abhishek2004-bot&show_icons=true&theme=tokyonight" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek2004-bot&layout=compact&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhishek2004-bot&theme=tokyonight" />
-</p>
-
----
 
 ## 🛠 Languages and Tools
 
