@@ -14,7 +14,7 @@ Passionate about software development and building impactful applications.
 
 - 💻 Explore all my projects :  https://github.com/Abhishek2004-bot?tab=repositories
 
-- 📑 Check out my resume here - [My Resume](https://drive.google.com/file/d/1619IBAeHsj-GR4T8xYn33huEzx-RUS15/view?usp=sharing)
+- 📑 Check out my resume here - [My Resume](https://drive.google.com/file/d/1PKyfPwtsAkhSyV_6tQTYabULc1C0oC5h/view)
 
 - 🛠 Technologies: **Java, Spring Boot, Hibernate, JDBC, REST APIs, Python, MySQL, HTML, CSS, JavaScript, Bootstrap**
 
