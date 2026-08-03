@@ -6,7 +6,7 @@
 Passionate about software development and building impactful applications.
 </p>
 
-- 🎓 BCA Graduate (2025) with hands-on experience in Java Full Stack Development through a 6-month internship at Tap Academy, Bengaluru.
+- 🎓 BCA Graduate (2025) with hands-on experience in Java Full Stack Development through a 8-month internship at Tap Academy, Bengaluru.
 
 - 🚀 Built and deployed **FoodSeva**, a full-stack online food ordering application using Spring Boot, Hibernate, MySQL, JSP, and REST APIs. [![View Project](https://img.shields.io/badge/View-Project-blue?style=flat-square)](https://drive.google.com/file/d/1-KUTtbElq9JjqUakt8wJsZCschF2tjcB/view)
 
